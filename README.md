@@ -1,1 +1,1 @@
-# multithreaded-webcrawler
+Simple web crawler using python.
